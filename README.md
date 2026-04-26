@@ -14,8 +14,7 @@ A luxury, high-end furniture showcase website featuring a minimalist aesthetic, 
 - **Icons:** Font Awesome 6
 
 ## 🚀 Live Demo
-[View the live site here](https://your-username.github.io/your-repo-name/)
-
+View the live site here👇 https://kelvin7331.github.io/woodcity-furniture/
 ---
 *Crafted with precision by Kelvin Mwichwiri*
 
